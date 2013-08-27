@@ -1,0 +1,8 @@
+inherit kde4
+
+NAME="kde-l10n-wa"
+VERSION=4.8.3
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE Walloon translation files"
+DESCRIPTION="KDE Walloon translation files"
